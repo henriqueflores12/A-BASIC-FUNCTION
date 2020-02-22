@@ -1,0 +1,127 @@
+html {
+  color: whitesmoke;
+}
+html:hover {
+  color: red;
+}
+body {
+  background-image: url(https://lh3.googleusercontent.com/proxy/Xma0cgiNkJGAVeyf-TGB6_XetI5DyrEVz9VwiuxUmYXN7leAXCiPCX42nuPMznULtYaVkwG1M49Thg6WJBwA60M_RIdnfU8);
+  background-size: 100%;
+}
+#message {
+  height: 200px;
+  width: 100%;
+  border-style: double;
+  font-size: xx-large;
+  font-style: italic;
+  color: white;
+  overflow: scroll;
+}
+#message:hover {
+  color: gold;
+}
+#parent {
+  height: 100%;
+  width: 100%;
+  border-style: double;
+  display: grid;
+  font-size: xx-large;
+  font-style: italic;
+  color: white;
+}
+#one {
+  height: 200px;
+  width: 100%;
+  border-style: double;
+  overflow: scroll;
+}
+#one:hover {
+  color: green;
+}
+#two {
+  height: 200px;
+  width: 100%;
+  border-style: double;
+  overflow: scroll;
+}
+#two:hover {
+  color: indigo;
+}
+#three {
+  height: 200px;
+  width: 100%;
+  border-style: double;
+  overflow: scroll;
+}
+#three:hover {
+  color: yellowgreen;
+}
+#four {
+  height: 200px;
+  border-style: double;
+  overflow: scroll;
+}
+#four:hover {
+  color: peru;
+}
+#five {
+  height: 200px;
+  width: 100%;
+  border-style: double;
+  overflow: scroll;
+}
+#five:hover {
+  color: blueviolet;
+}
+#six {
+  height: 200px;
+  width: 100%;
+  border-style: double;
+  overflow: scroll;
+}
+#six:hover {
+  color: crimson;
+}
+#seven {
+  height: 200px;
+  width: 100%;
+  border-style: double;
+  overflow: scroll;
+}
+#seven:hover {
+  color: darkgoldenrod;
+}
+#eight {
+  height: 200px;
+  width: 100%;
+  border-style: double;
+  overflow: scroll;
+}
+#eight:hover {
+  color: darkred;
+}
+#nine {
+  height: 200px;
+  width: 100%;
+  border-style: double;
+  overflow: scroll;
+}
+#nine:hover {
+  color: deepskyblue;
+}
+#ten {
+  height: 200px;
+  width: 100%;
+  border-style: double;
+  overflow: scroll;
+}
+#ten:hover {
+  color: goldenrod;
+}
+#start {
+  font-size: xx-large;
+  font-style: oblique;
+}
+#start:hover {
+  color: deepskyblue;
+}
